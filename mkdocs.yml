@@ -1,0 +1,16 @@
+site_name: PkgTemplates.jl
+
+site_url: http://peter1000.github.io/PkgTemplates.jl/
+site_description: User definable New Package Template for Julia.
+repo_url: https://github.com/peter1000/PkgTemplates.jl/
+
+
+pages:
+- ['index.md', 'Home']
+- ['README.md', 'About', 'README']
+- ['LICENSE.md', 'About', 'LICENSE']
+
+use_directory_urls: true
+copyright: Copyright &copy; 2015, <strong>peter1000</strong> <a href="https://github.com/peter1000">https://github.com/peter1000</a>. <br /> All rights reserved.
+
+theme: 'lconf_theme'
